@@ -10,6 +10,7 @@ User Details:
 _____________
 
 Enter userId: SBI103
+
 Enter pin: Avatar192@!
 
 
